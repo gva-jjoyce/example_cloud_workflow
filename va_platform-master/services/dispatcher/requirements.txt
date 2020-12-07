@@ -1,0 +1,7 @@
+flask>=1.1.1
+networkx
+google-cloud-tasks>=2.0.0
+git+https://github.com/gva-jjoyce/gva_logging
+git+https://github.com/gva-jjoyce/gva_data_validator
+git+https://github.com/gva-jjoyce/gva_data_flows
+git+https://github.com/joocer/gva_services
